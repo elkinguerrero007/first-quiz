@@ -13,7 +13,7 @@
  [___]  '.__.'[___][___]'.__.'   \__/\__/  [\__) )             
 
 ```
-# primera etapa
+# primera etapa aqui vamos nuevamente
 
 ¡Bienvenid@s a la primera prueba del programa VélezReyes+ Tech Fellows 2024! We are so excited that you are here and to embark on this journey together.
 
